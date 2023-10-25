@@ -1,8 +1,7 @@
 # Data-Science-Visualisation-
 #Project - Predicting and analysing the impact of COVID-19 in the Top 6 GDP Countries
+
 #Dataset - The dataset can be downloaded from: https://ourworldindata.org/coronavirus
-
-
 
 I conducted an in-depth analysis of the impact of COVID-19 in the top 6 GDP countries (United States, China, Japan, Germany, the United Kingdom, and India). I used a comprehensive dataset from Our World in Data, including data on cases, deaths, testing, and responses to the pandemic. The analysis involved various techniques, such as visualizations, correlation analysis, simple linear regression, and time series modeling using ARIMA.
 
