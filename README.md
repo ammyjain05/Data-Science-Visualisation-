@@ -1,6 +1,6 @@
 # Data-Science-Visualisation-
-Project - Predicting and analysing the impact of COVID-19 in the Top 6 GDP Countries
-Dataset - The dataset can be downloaded from: https://ourworldindata.org/coronavirus
+#Project - Predicting and analysing the impact of COVID-19 in the Top 6 GDP Countries
+#Dataset - The dataset can be downloaded from: https://ourworldindata.org/coronavirus
 
 
 
